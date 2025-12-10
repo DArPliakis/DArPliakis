@@ -1,6 +1,6 @@
 # Demetrios A. Pliakis, PhD
 **Mathematical Physicist & Applied Mathematician**  
-*TEI Crete / Hellenic Mediterranean University, Greece*
+*ADITAL LLC *
 
 > **Bridging PDE Theory, Geometric Analysis, and Computational Algorithms**  
 > Specializing in eigenvalue estimates, free boundary problems, and adaptive solvers for degenerate diffusion equations.  
