@@ -17,7 +17,7 @@
 - **Publications**: 18+ papers, cited 39x [](https://scholar.google.com/citations?user=39TzG-AAAAAJ)  
 
 ### Contact
-- 📧: d.pliakis@staff.teicrete.gr  
+- 📧: dpliakis@m-t.gov.gr
 - 🔗: [LinkedIn](https://www.linkedin.com/in/demetrios-pliakis-60902045/) | [ResearchGate](https://www.researchgate.net/profile/Demetrios-Pliakis-2)  
 - 🌐: Greece-based, open to collaborations in scientific computing & urban modeling  
 
